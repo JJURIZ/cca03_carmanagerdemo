@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "54SIPoO73Ar6XjqX5aKdlm+eByTbpBoO+caEcyYwUDprqJHz2DDKf2va4BcAF0dVOttleVvN/uTXN/uzm5BiVg==",
+  "success": true,
+  "projectFilePath": "C:\\CCA03\\cca03_carmanagerdemo\\src\\CarManager\\VehicleLibrary\\VehicleLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JJURI\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JJURI\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

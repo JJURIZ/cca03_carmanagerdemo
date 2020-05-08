@@ -1,0 +1,9 @@
+C:\CCA03\cca03_carmanagerdemo\src\CarManager\VehicleLibrary\bin\Debug\netstandard2.0\VehicleLibrary.deps.json
+C:\CCA03\cca03_carmanagerdemo\src\CarManager\VehicleLibrary\bin\Debug\netstandard2.0\VehicleLibrary.dll
+C:\CCA03\cca03_carmanagerdemo\src\CarManager\VehicleLibrary\bin\Debug\netstandard2.0\VehicleLibrary.pdb
+C:\CCA03\cca03_carmanagerdemo\src\CarManager\VehicleLibrary\obj\Debug\netstandard2.0\VehicleLibrary.csprojAssemblyReference.cache
+C:\CCA03\cca03_carmanagerdemo\src\CarManager\VehicleLibrary\obj\Debug\netstandard2.0\VehicleLibrary.csproj.CoreCompileInputs.cache
+C:\CCA03\cca03_carmanagerdemo\src\CarManager\VehicleLibrary\obj\Debug\netstandard2.0\VehicleLibrary.AssemblyInfoInputs.cache
+C:\CCA03\cca03_carmanagerdemo\src\CarManager\VehicleLibrary\obj\Debug\netstandard2.0\VehicleLibrary.AssemblyInfo.cs
+C:\CCA03\cca03_carmanagerdemo\src\CarManager\VehicleLibrary\obj\Debug\netstandard2.0\VehicleLibrary.dll
+C:\CCA03\cca03_carmanagerdemo\src\CarManager\VehicleLibrary\obj\Debug\netstandard2.0\VehicleLibrary.pdb
